@@ -1,6 +1,6 @@
 #JMS Browser
 
-An example Web application which can be used to browse, consume and send test message to a JMS queue deployed on WildFly
+An example Web application which can be used to browse, consume and send test message to a JMS queue deployed on WildFly 11.0.0.Final and above where active MQ is the default messaging subsystem. 
 
 ```mvn clean install wildfly:deploy```
 
